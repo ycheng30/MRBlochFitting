@@ -11,7 +11,7 @@ Includes functions that perform fast fourier transform <br />
 
 > cjlib.py
 
-Defines ~100 functions that perform reading high-dim large-scale image files with different format/headers, curve fitting, optimization algorithms (gradient descent, BFGS, LBFGS, etc), convolutions using Gaussician kernels, image smoothing, image alignment/registration, phase unwrapping, data interpolation, extrapolation. Python packages involved are numpy, scipy, matplotlib. <br /> 
+Defines ~100 functions that perform reading high-dimensional large-scale image files with different format/headers, numerical curve fitting, optimization algorithms (gradient descent, BFGS, LBFGS, etc), convolutions using Gaussician kernels, image smoothing, image alignment/registration, phase unwrapping, data interpolation, extrapolation. Python packages involved are numpy, scipy, matplotlib. <br /> 
 
 <br />
 
