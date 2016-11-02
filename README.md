@@ -4,7 +4,7 @@ Some of the functions defined in the library involve numerical curve fitting, li
 
 > ifftprocessing.py
 
-Includes functions that perform fast fourier transform 
+Includes functions that perform fast fourier transform <br />
 <br />
 
 > cjlib.py
