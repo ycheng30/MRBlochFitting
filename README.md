@@ -4,12 +4,12 @@ Some of the functions defined in the library involve numerical curve fitting, li
 
 > ifftprocessing.py
 
-Includes functions that perform fast fourier transform
+Includes functions that perform fast fourier transform <br />
 
 
 > cjlib.py
 
-Defines ~100 functions that perform reading high-dim large-scale image files with different format/headers, curve fitting, optimization algorithms (gradient descent, BFGS, LBFGS, etc), convolutions using Gaussician kernels, image smoothing, image alignment/registration, phase unwrapping, data interpolation, extrapolation. Python packages involved are numpy, scipy, matplotlib. 
+Defines ~100 functions that perform reading high-dim large-scale image files with different format/headers, curve fitting, optimization algorithms (gradient descent, BFGS, LBFGS, etc), convolutions using Gaussician kernels, image smoothing, image alignment/registration, phase unwrapping, data interpolation, extrapolation. Python packages involved are numpy, scipy, matplotlib. <br />
 
 
 > bloch_fast.py and bloch_fast_Ying.py
